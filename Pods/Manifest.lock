@@ -1,0 +1,166 @@
+PODS:
+  - ACProgressHUD-Swift (1.2)
+  - ActionCableClient (0.2.3):
+    - Starscream (~> 2.0.0)
+  - Alamofire (4.5.0)
+  - AWSCore (2.6.10)
+  - AWSPolly (2.6.10):
+    - AWSCore (= 2.6.10)
+  - AZDialogView (1.0.2)
+  - BTNavigationDropdownMenu (0.4.1)
+  - BWWalkthrough (2.1.1)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - Crashlytics (3.8.5):
+    - Fabric (~> 1.6.3)
+  - DateToolsSwift (2.0.3)
+  - Fabric (1.6.12)
+  - Kingfisher (4.1.0)
+  - Mapbox-iOS-SDK (3.7.2)
+  - MapboxCoreNavigation (0.12.0):
+    - MapboxDirections.swift (~> 0.15)
+    - MapboxMobileEvents (~> 0.2)
+    - Turf (~> 0.0.4)
+  - MapboxDirections.swift (0.15.1):
+    - Polyline (~> 4.2)
+  - MapboxMobileEvents (0.2.10)
+  - MapboxNavigation (0.12.0):
+    - AWSPolly (~> 2.6)
+    - Mapbox-iOS-SDK (~> 3.6)
+    - MapboxCoreNavigation (= 0.12.0)
+    - SDWebImage (~> 4.1)
+    - Solar (~> 2.1)
+    - Turf (~> 0.0.4)
+  - MKRingProgressView (1.1.3)
+  - Pageboy (2.0.0)
+  - PinCodeTextField (0.0.4):
+    - PinCodeTextField/Swift (= 0.0.4)
+  - PinCodeTextField/Core (0.0.4)
+  - PinCodeTextField/Swift (0.0.4):
+    - PinCodeTextField/Core
+  - Polyline (4.2.0)
+  - Pulsator (0.3.0)
+  - QRCode (2.0)
+  - QRCodeReader.swift (7.4.3)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
+  - RevealingSplashView (0.4.0)
+  - SCLAlertView (0.7.0)
+  - ScrollableGraphView (3.1.0)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - Solar (2.1.0)
+  - SquarePointOfSaleSDK (3.3.1)
+  - Starscream (2.0.4)
+  - SwiftDate (4.1.6)
+  - SwiftyJSON (3.1.4)
+  - Turf (0.0.4)
+  - TwicketSegmentedControl (0.1.2)
+  - UICircularProgressRing (1.6.2)
+
+DEPENDENCIES:
+  - ACProgressHUD-Swift (~> 1.2)
+  - ActionCableClient
+  - Alamofire
+  - AZDialogView
+  - BTNavigationDropdownMenu (from `https://github.com/PhamBaTho/BTNavigationDropdownMenu.git`, branch `swift-3.0`)
+  - BWWalkthrough
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - Charts
+  - Crashlytics
+  - DateToolsSwift
+  - Fabric
+  - Kingfisher (~> 4.0)
+  - MapboxCoreNavigation (~> 0.12)
+  - MapboxNavigation (~> 0.12)
+  - MKRingProgressView
+  - Pageboy (~> 2.0)
+  - PinCodeTextField (from `https://github.com/tkach/PinCodeTextField`)
+  - Pulsator
+  - QRCode
+  - QRCodeReader.swift (~> 7.4.1)
+  - RealmSwift
+  - RevealingSplashView
+  - SCLAlertView
+  - ScrollableGraphView
+  - SquarePointOfSaleSDK
+  - Starscream (~> 2.0.4)
+  - SwiftDate (~> 4.0)
+  - SwiftyJSON
+  - Turf
+  - TwicketSegmentedControl
+  - UICircularProgressRing
+
+EXTERNAL SOURCES:
+  BTNavigationDropdownMenu:
+    :branch: swift-3.0
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+  PinCodeTextField:
+    :git: https://github.com/tkach/PinCodeTextField
+
+CHECKOUT OPTIONS:
+  BTNavigationDropdownMenu:
+    :commit: e11a720322afc8baa02b3ff63fcc630e4f9de577
+    :git: https://github.com/PhamBaTho/BTNavigationDropdownMenu.git
+  ChameleonFramework:
+    :commit: 6dd284bde21ea2e7f9fd89bc36f40df16e16369d
+    :git: https://github.com/ViccAlexander/Chameleon.git
+  PinCodeTextField:
+    :commit: 1fb330465e158319751b9783d15811dd4841a4cd
+    :git: https://github.com/tkach/PinCodeTextField
+
+SPEC CHECKSUMS:
+  ACProgressHUD-Swift: a08e699b2d8b3f3528d77c021ad6a326bc16f76d
+  ActionCableClient: c8a466410d31bfa14e7a9c209b539c1e2d026a5f
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AWSCore: 5bb072a6b5b185f43ddbd239d6554d2f8a285ad2
+  AWSPolly: 2e06b395db6176f6edc8ce6cd3379c46c1bccb44
+  AZDialogView: 5c663132c6c2f5053930a9a7fc82f145c9c3af05
+  BTNavigationDropdownMenu: 093f3cbfad1572f2c222bdf8d17584d1e13380d4
+  BWWalkthrough: b8e3f38beb77349d9fa7f30e1dafeaa39e50e007
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  Crashlytics: dfbae35ef22ca189240d230ad501feea4ee85d2d
+  DateToolsSwift: bf69bf9056d9e53c5c03f06e51f219b9b8b02f9e
+  Fabric: f050464eac45a2ce5a8e6e6a07e977c0df32fe28
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  Mapbox-iOS-SDK: d882f53debc26649b728755df5b7a160d9086367
+  MapboxCoreNavigation: 82aa51faecda228ead8d320ced4c38db31e0df98
+  MapboxDirections.swift: 2ed0a698a7721b5373362b74579c7194cda12528
+  MapboxMobileEvents: 9e48b59d0eed04508595dcb04a77b7632e1c3054
+  MapboxNavigation: aef03ff7ecb1fb395ed1cdf4b9b1559819ba2da4
+  MKRingProgressView: e9103efbc8b60d0a4c4199188360f21b8b6626ab
+  Pageboy: a43a4e34fad98ebfa415a5d33cd0389e5005a101
+  PinCodeTextField: 1248da9733734692d598941a5a0866af1ffc5e0a
+  Polyline: 3d69f75bb136357e27291d439d0436c6ebda57a4
+  Pulsator: 0191f14f7ab82d6dbde6fdbde42036f07a4450e3
+  QRCode: f98a1886c8f37523704a7512a4c0cd45b34c18a4
+  QRCodeReader.swift: 4a1d46f3057b1b6fc555578b2dc9f2dc99c7ccda
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
+  RevealingSplashView: 72be158ad5e1bc72713e8f78383dc3e1803ce4d1
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  ScrollableGraphView: e2c8bedc7bbb643e8ac57b9456070d68355c4e4c
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  Solar: 2dc6e7cc39186cb0c8228fa08df76fb50c7d8f24
+  SquarePointOfSaleSDK: f1640fd16fe44083cd715157a5031efebc693454
+  Starscream: df5974ee928b157c8eda8af8de7c620276b7dfcc
+  SwiftDate: 6bae71add23ce9f16ec2be3a521b21000da5804b
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Turf: 6c169618fa671e3f8a7b764b5b3332053ad6110e
+  TwicketSegmentedControl: 6d7a4cf243657e0ac3f00d06d873a25334c04042
+  UICircularProgressRing: f25e366e0624d87973192b67e572c0712acbae85
+
+PODFILE CHECKSUM: 38c2318c201b492af86a7e764e970d5fc3b3ccb9
+
+COCOAPODS: 1.3.1
